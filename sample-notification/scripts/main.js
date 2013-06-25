@@ -74,7 +74,7 @@ notificationApp.prototype = {
     
 	_vibrate:function() {
 		// Note that iPhone ignores the duration parameter and vibrates for
-		// a pre-determined amount of time.
+		// a pre-determined amount of time. Some iOS devices would only vibrate when volume is turned off
 		navigator.notification.vibrate(3000);
 	} 
 }
