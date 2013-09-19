@@ -53,7 +53,7 @@ notificationApp.prototype = {
 										   that._onConfirm.apply(that, arguments);
 									   }, 
 									   'Reset alert', 
-									   'Reset,Cancel'
+                                       new Array("Reset","Cancel")
 		);  
 	},
     
