@@ -5,20 +5,20 @@
   "ProjectName": "sample-notification",
   "IsRunnable": "true",
   "AndroidPermissions": [
-    "android.permission.CAMERA",
-    "android.permission.VIBRATE",
     "android.permission.ACCESS_COARSE_LOCATION",
     "android.permission.ACCESS_FINE_LOCATION",
     "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-    "android.permission.READ_PHONE_STATE",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.CAMERA",
     "android.permission.INTERNET",
-    "android.permission.RECEIVE_SMS",
-    "android.permission.RECORD_AUDIO",
     "android.permission.MODIFY_AUDIO_SETTINGS",
     "android.permission.READ_CONTACTS",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.VIBRATE",
     "android.permission.WRITE_CONTACTS",
-    "android.permission.WRITE_EXTERNAL_STORAGE",
-    "android.permission.ACCESS_NETWORK_STATE"
+    "android.permission.WRITE_EXTERNAL_STORAGE"
   ],
   "DeviceOrientations": [
     "Portrait",
@@ -34,7 +34,7 @@
   "AndroidVersionCode": "1",
   "AndroidHardwareAcceleration": "false",
   "iOSBackgroundMode": [],
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "CorePlugins": [
     "org.apache.cordova.dialogs",
     "org.apache.cordova.splashscreen",
@@ -48,5 +48,12 @@
   ],
   "Author": "",
   "Description": "sample-notification",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "WP8PublisherID": "{b4b38649-0465-4adb-9fb4-dce49065a8b8}",
+  "WP8ProductID": "{74366888-7f07-4560-9db2-71463d70004c}",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8Publisher": "",
+  "WP8TileTitle": ""
 }
