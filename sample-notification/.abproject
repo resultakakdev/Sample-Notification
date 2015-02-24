@@ -46,7 +46,5 @@
 	"Author": "",
 	"Description": "sample-notification",
 	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{10e6e5cf-af54-43ef-be0e-bbae322ab902}",
-	"WP8ProductID": "{50e050c4-8a87-474f-b60a-b0838d9f00db}"
+	"projectVersion": 1
 }
