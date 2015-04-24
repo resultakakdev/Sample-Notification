@@ -37,13 +37,18 @@
 		"org.apache.cordova.splashscreen",
 		"org.apache.cordova.vibration"
 	],
-	"DisplayName": "sample-notification",
+	"DisplayName": "Notification",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_WVGA",
 		"ID_RESOLUTION_WXGA",
 		"ID_RESOLUTION_HD720P"
 	],
 	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
 	"Description": "sample-notification",
 	"Framework": "Cordova",
 	"projectVersion": 1
