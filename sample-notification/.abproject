@@ -39,9 +39,9 @@
 	],
 	"DisplayName": "Notification",
 	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
 		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA",
-		"ID_RESOLUTION_HD720P"
+		"ID_RESOLUTION_WXGA"
 	],
 	"Author": "",
 	"WP8Publisher": "",
@@ -51,5 +51,9 @@
 	"WP8Requirements": [],
 	"Description": "sample-notification",
 	"Framework": "Cordova",
-	"projectVersion": 1
+	"projectVersion": 1,
+	"WP8PublisherID": "{3b6f18d1-e7bf-40af-9a29-3d2e4d40135d}",
+	"WP8ProductID": "{f55e46d9-1df0-4862-8729-e62a7445fa44}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplenotification",
+	"WP8WindowsPublisherName": "CN=Telerik"
 }
