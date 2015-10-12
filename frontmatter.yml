@@ -1,0 +1,7 @@
+title: Notifications
+slug: sample-notification
+page_title: Dialogs (Notifications) | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to use the Dialogs core Apache Cordova API to create visual, audio and vibration notifications in your app.
+tags: Apache Cordova, core, notification, alert, vibration, iOS, Android, Windows Phone
+publish: true
+content_filter: true
