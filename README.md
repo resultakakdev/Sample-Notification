@@ -1,10 +1,9 @@
 Dialogs (Notifications)
 ===================
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-notification" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  <a href="https://github.com/Icenium/sample-notification" target="_blank"><img style="padding-left:20px" src="http://docs.telerik.com/platform/samples/images/get-github.png" alt="Get from GitHub" title="Get from GitHub"></a>
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-notification" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
 * [Limitations](#limitations)
@@ -14,17 +13,6 @@ This sample shows you how to use the Dialogs API to add alerts, confirmation dia
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample shows how to use the following methods of the [Dialogs API][Dialogs API].
-
-* **alert()**: Shows a dialog with custom message, title and `buttonName` (optional). After the user dismisses the dialog, an optional callback is executed.
-* **confirm()**: Shows a confirmation dialog with custom message, title and buttons, declared in a string and separated with commas. After the user dismisses the confirmation dialog, an optional callback is executed.
-* **beep()**: Plays a beep sound. <br/>On Android devices, plays the default beep notification sound. <br/>For iOS devices, you must provide the beep sound as a `beep.wav` file in the root of the app. The beep must be shorter than 30 seconds. You cannot set the number of times to repeat the beep.
-* **vibrate()**: Vibrates the device for the specified duration (in milliseconds). On iPhone, the duration is predefined and you cannot override it.
 
 [Back to Top](#top)
 
@@ -155,4 +143,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [QR code]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/deploy-remote
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
-[Dialogs API]: https://www.npmjs.com/package/cordova-plugin-dialogs

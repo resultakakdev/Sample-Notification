@@ -5,3 +5,4 @@ description: This sample shows you how to use the Dialogs core Apache Cordova AP
 tags: Apache Cordova, core, notification, alert, vibration, iOS, Android, Windows Phone
 publish: true
 content_filter: true
+apis: cordova.dialogs cordova.dialogs.alert cordova.dialogs.confirm cordova.dialogs.prompt cordova.dialogs.beep cordova.vibration cordova.vibration.vibrate
