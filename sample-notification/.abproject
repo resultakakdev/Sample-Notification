@@ -1,59 +1,59 @@
 {
-	"ProjectGuid": "c351e890-9762-4935-9f6b-68cc6ee130cc",
-	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-	"AppIdentifier": "com.telerik.samplenotification",
-	"ProjectName": "sample-notification",
-	"AndroidPermissions": [
-		"android.permission.CAMERA",
-		"android.permission.VIBRATE",
-		"android.permission.ACCESS_COARSE_LOCATION",
-		"android.permission.ACCESS_FINE_LOCATION",
-		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-		"android.permission.READ_PHONE_STATE",
-		"android.permission.INTERNET",
-		"android.permission.RECEIVE_SMS",
-		"android.permission.RECORD_AUDIO",
-		"android.permission.MODIFY_AUDIO_SETTINGS",
-		"android.permission.READ_CONTACTS",
-		"android.permission.WRITE_CONTACTS",
-		"android.permission.WRITE_EXTERNAL_STORAGE",
-		"android.permission.ACCESS_NETWORK_STATE"
-	],
-	"DeviceOrientations": [
-		"Portrait",
-		"Landscape"
-	],
-	"iOSStatusBarStyle": "Default",
-	"BundleVersion": "1.0",
-	"iOSDeviceFamily": [
-		"1",
-		"2"
-	],
-	"AndroidVersionCode": "1",
-	"AndroidHardwareAcceleration": "false",
-	"FrameworkVersion": "3.7.0",
-	"CorePlugins": [
-		"org.apache.cordova.dialogs",
-		"org.apache.cordova.splashscreen",
-		"org.apache.cordova.vibration"
-	],
-	"DisplayName": "Notification",
-	"WP8SupportedResolutions": [
-		"ID_RESOLUTION_HD720P",
-		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA"
-	],
-	"Author": "",
-	"WP8Publisher": "",
-	"WP8TileTitle": "",
-	"WP8Capabilities": [],
-	"iOSBackgroundMode": [],
-	"WP8Requirements": [],
-	"Description": "sample-notification",
-	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{3b6f18d1-e7bf-40af-9a29-3d2e4d40135d}",
-	"WP8ProductID": "{f55e46d9-1df0-4862-8729-e62a7445fa44}",
-	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplenotification",
-	"WP8WindowsPublisherName": "CN=Telerik"
+  "ProjectGuid": "c351e890-9762-4935-9f6b-68cc6ee130cc",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.samplenotification",
+  "ProjectName": "sample-notification",
+  "AndroidPermissions": [
+    "android.permission.CAMERA",
+    "android.permission.VIBRATE",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.INTERNET",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.READ_CONTACTS",
+    "android.permission.WRITE_CONTACTS",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.ACCESS_NETWORK_STATE"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "BundleVersion": "1.0",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "false",
+  "FrameworkVersion": "3.7.0",
+  "CorePlugins": [
+    "org.apache.cordova.dialogs",
+    "org.apache.cordova.splashscreen",
+    "org.apache.cordova.vibration"
+  ],
+  "DisplayName": "Notification",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ],
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "sample-notification",
+  "Framework": "Cordova",
+  "projectVersion": 1,
+  "WP8PublisherID": "{3b6f18d1-e7bf-40af-9a29-3d2e4d40135d}",
+  "WP8ProductID": "{f55e46d9-1df0-4862-8729-e62a7445fa44}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.samplenotification",
+  "WP8WindowsPublisherName": "CN=Telerik"
 }
