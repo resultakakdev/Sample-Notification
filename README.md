@@ -1,6 +1,6 @@
 Dialogs (Notifications)
 ===================
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-notification" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-notification" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in the Platform" title="Try in the Platform" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
@@ -10,7 +10,7 @@ Dialogs (Notifications)
 
 This sample shows you how to use the Dialogs API to add alerts, confirmation dialogs and audio and vibration notifications to your app.
 
-> *Supported mobile platforms:* iOS, Android, Windows Phone
+> *Supported mobile platforms:* iOS 7.1+, Android 4.4+, Windows Phone 8.1+
 >
 > *Developed with:* Windows Phone SDK 8.1, Apache Cordova 4.0.0
 
@@ -20,7 +20,7 @@ This sample shows you how to use the Dialogs API to add alerts, confirmation dia
 
 Platform | Home
 ---|---
-All | ![](https://raw.githubusercontent.com/Icenium/sample-notification/master/screenshots/home.jpg)
+All | ![](screenshots/home.PNG)
 
 [Back to Top](#top)
 

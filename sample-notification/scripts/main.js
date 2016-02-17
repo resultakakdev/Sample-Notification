@@ -64,10 +64,10 @@ notificationApp.prototype = {
 	},
     
 	_playBeep:function() {
-		// On the iPhone, this code will only have an effect if
+		// On iOS, this code will only have an effect if
 		// you place a file named beep.wav in the root of the project.
 		// The beep sound can be at most 30 seconds long.
-		// The iPhone disregards the beep count, so will only beep once.
+		// iOS disregards the beep count argument.
 		// Android phones play the default Notification ringtone.
 		navigator.notification.beep(2);  
 	},
