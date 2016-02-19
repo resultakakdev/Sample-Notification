@@ -30,12 +30,13 @@
 		"2"
 	],
 	"AndroidVersionCode": "1",
-	"AndroidHardwareAcceleration": "false",
-	"FrameworkVersion": "3.7.0",
+	"AndroidHardwareAcceleration": "true",
+	"FrameworkVersion": "4.0.0",
 	"CorePlugins": [
-		"org.apache.cordova.dialogs",
-		"org.apache.cordova.splashscreen",
-		"org.apache.cordova.vibration"
+		"cordova-plugin-dialogs",
+		"cordova-plugin-splashscreen",
+		"cordova-plugin-vibration",
+		"cordova-plugin-whitelist"
 	],
 	"DisplayName": "Notification",
 	"WP8SupportedResolutions": [
