@@ -1,32 +1,39 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Notification Sample</title>
-
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 		<meta charset="utf-8">
-		<link rel="stylesheet" href="styles/main.css" />
+		<link rel="stylesheet" href="styles/theme.css" />
 		<script type="text/javascript" charset="utf-8" src="cordova.js"></script>
 		<script type="text/javascript" charset="utf-8" src="scripts/main.js"></script>
 	</head>
 	<body>
-		<header class="header">
+		<div class="header">
 			<h1>Notification Sample</h1>
-		</header>
-		<div class="content">
-            <div class="action-area ch70">
-                <button class="button dh" id="alertButton">Show Alert</button>
-				<button class="button dh" id="confirmButton">Show Confirm</button>
-				<button class="button dh" id="beepButton">Beep</button>
-				<button class="button dh" id="vibrateButton">Vibrate</button>
-            </div>
-			<div class="result-area ch30">
-                <div class="results"></div>
-                <div class="separator"></div>
-            </div>
 		</div>
-        <footer class="footer">
-		    <div>Cordova API Samples</div>
-	    </footer>
+		<div class="subheader">
+			<div class="row">
+				<div class="col">
+					<button class="button" id="alertButton">Show Alert</button>
+				</div>
+				<div class="col">
+					<button class="button" id="confirmButton">Show Confirm</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					<button class="button" id="beepButton">Beep</button>
+				</div>
+				<div class="col">
+					<button class="button" id="vibrateButton">Vibrate</button>
+				</div>
+			</div>
+		</div>
+		<div class="content">
+
+		</div>
+		<div class="footer">
+			<span>Feature Examples</span>
+		</div>
 	</body>
 </html>
