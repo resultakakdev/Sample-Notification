@@ -20,7 +20,7 @@ This sample shows you how to use the Dialogs API to add alerts, confirmation dia
 
 Platform | Home
 ---|---
-All | ![](screenshots/home.PNG)
+All | ![](https://raw.githubusercontent.com/Icenium/Sample-Notification/master/screenshots/home.PNG)
 
 [Back to Top](#top)
 
