@@ -19,7 +19,7 @@
   ],
   "AndroidVersionCode": "1",
   "AndroidHardwareAcceleration": "true",
-  "FrameworkVersion": "4.0.0",
+  "FrameworkVersion": "6.4.0",
   "CorePlugins": [
     "cordova-plugin-dialogs",
     "cordova-plugin-splashscreen",
